@@ -1,3 +1,4 @@
 {
-    "mongoURI": "mongodb+srv://veryamini:Radhasoami@123@devconnect-a85la.mongodb.net/test?retryWrites=true&w=majority"
+    "mongoURI": "mongodb+srv://veryamini:Radhasoami@123@devconnect-a85la.mongodb.net/test?retryWrites=true&w=majority",
+    "jwtSecret": "secretokenverify"
 }
